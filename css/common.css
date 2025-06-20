@@ -76,6 +76,9 @@ footer a {
 }
 
 h5 {
-    color: #ccc;
-    padding: 20px 0;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: left;
+    color: #bbbbbb;
+    padding: 80px 0 50px 10px;
 }
